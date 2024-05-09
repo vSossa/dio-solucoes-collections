@@ -1,5 +1,5 @@
 # Minhas soluções para os exercícios propostos pela instrutora cami-la da dio
-- fonte: [repositório da cami-la de Colletions](https://github.com/cami-la/collections-java-api-2023/)
+- fonte: [repositório da cami-la de Collections](https://github.com/cami-la/collections-java-api-2023/)
 ## Organização
 Os exercícios estão separados pelo tipo de collections. 
 Cada collection possui 3 tipos de exercício, sendo 2 exercícios para cada tipo.
